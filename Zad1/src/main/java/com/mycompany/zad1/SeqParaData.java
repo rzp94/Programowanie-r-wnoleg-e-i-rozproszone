@@ -32,7 +32,7 @@ public class SeqParaData {
 	
         float timeSeq1 = System.nanoTime();
         float timeSeq2 = timeSeq1-timeSeq0;
-        System.out.println("Pobieranie sekwencyjne zajeło: "+timeSeq2+"ms");
+        System.out.println("Pobieranie sekwencyjne zajeło: "+timeSeq2+"ms\n");
         
         float timePara0 = System.nanoTime();
         List<Thread> threadsList = new ArrayList<Thread>();
@@ -61,10 +61,10 @@ public class SeqParaData {
         }
         float timePara1 = System.nanoTime();
         float timePara2 = timePara1 -  timePara0;
-        System.out.println("Pobieranie wspolbiezne zajeło: "+timePara2+"ms");
+        System.out.println("Pobieranie wspolbiezne zajeło: "+timePara2+"ms\n");
         
         float difference = timeSeq2 - timePara2;
-        System.out.println("Rożnica między pobieraaniem wspolbieznym a sekwencyjnym wyniosla:  "+difference+"ms");
+        System.out.println("Rożnica między pobieraniem sekwencyjnym a wspolbieznym wyniosla:  "+difference+"ms");
         
         
         
