@@ -1,0 +1,3 @@
+Program używający biblioteki ml5.js która udostępnia algorytmy uczenia maszynowego i modele w przeglądarce.
+Bazuje ona na bibliotece tensorflow.js dzięki czemu nie ma potrzeby używania zewnętrznych dependencji.
+W tym przypadku komputer rysuje nam koty.
