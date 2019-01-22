@@ -1,0 +1,3 @@
+Program przy użyciu biblioteki tensorflow,
+uczy się jak najlepiej dopasować linię do
+wyznaczonych punktów.
