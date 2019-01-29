@@ -1,0 +1,3 @@
+Przy pomocy uczenia maszynowego, 
+program okreœla jaki kolor czcionki,
+bêdzie odpowiedni dla danego koloru background'u.
