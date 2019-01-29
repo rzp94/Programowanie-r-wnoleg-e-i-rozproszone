@@ -1,0 +1,4 @@
+Przy u¿yciu biblioteki tensorflow.js,
+program rozwi¹zuje Problem XOR,
+opisany na http://home.agh.edu.pl/~vlsi/AI/xor_t/glowna.htm
+
