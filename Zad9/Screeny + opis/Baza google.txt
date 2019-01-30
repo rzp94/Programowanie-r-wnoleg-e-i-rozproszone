@@ -1,0 +1,2 @@
+Program wykorzystuje bazê (uczona maszynowo),
+aby przedstawiæ rysunki psów.
