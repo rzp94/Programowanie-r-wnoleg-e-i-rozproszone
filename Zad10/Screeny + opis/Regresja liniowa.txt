@@ -1,0 +1,2 @@
+Program przy pomocy biblioteki tensorflow.js,
+dopasowuje funkcje liniowa tak aby byla srodkiem wybranych punktów.
