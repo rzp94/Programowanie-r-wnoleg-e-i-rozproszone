@@ -1,0 +1,2 @@
+Program przy u¿yciu biblioteki ml5.js okreœla,
+co przedstawia obraz.
